@@ -1,0 +1,22 @@
+select {
+    background-color: #383838;
+    color: #FFFFFF;
+    border: 1px solid #707070;
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 20px;
+  }
+  
+  select option {
+    background-color: #383838;
+    color: #FFFFFF;
+  }
+  
+  select:focus {
+    outline: none;
+    border-color: #707070;
+  }
+  
